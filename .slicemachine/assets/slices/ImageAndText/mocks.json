@@ -1,0 +1,39 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "image_and_text",
+    "items": [],
+    "primary": {
+      "imageSide": "Right",
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop"
+      },
+      "tagline": [
+        {
+          "type": "paragraph",
+          "text": "Do exercitation voluptate ut.",
+          "spans": []
+        }
+      ],
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Consequat fugiat fugiat tempor consectetur minim. Magna adipisicing excepteur consequat pariatur labore voluptate culpa. Reprehenderit do deserunt mollit sint deserunt dolore.",
+          "spans": []
+        }
+      ],
+      "buttonLink": {
+        "link_type": "Web",
+        "url": "http://google.com"
+      },
+      "buttonText": "disintermediate frictionless action-items"
+    }
+  }
+]

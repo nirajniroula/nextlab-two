@@ -1,0 +1,118 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "features",
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=900&h=500&fit=crop"
+        },
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Dolore adipisicing consequat dolor duis aute sunt. Quis nostrud irure do nostrud sunt est magna excepteur Lorem.",
+            "spans": []
+          }
+        ],
+        "buttonLink": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "buttonText": "deploy turn-key e-services"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop"
+        },
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Est laborum cupidatat enim est quis Lorem.",
+            "spans": []
+          }
+        ],
+        "buttonLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "buttonText": "whiteboard e-business technologies"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=900&h=500&fit=crop"
+        },
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Do minim enim anim tempor incididunt ex sint culpa eiusmod elit. Anim exercitation eu quis culpa aute ipsum cupidatat est sint nulla reprehenderit quis quis. Mollit laboris cillum cillum cillum cupidatat culpa ullamco elit qui nulla velit aliqua adipisicing.",
+            "spans": []
+          }
+        ],
+        "buttonLink": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "buttonText": "productize magnetic users"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=900&h=500&fit=crop"
+        },
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Deserunt reprehenderit eu do amet ad proident velit amet laboris culpa laborum mollit laboris. Mollit cupidatat dolor laborum cillum esse ea proident nulla duis do fugiat tempor.",
+            "spans": []
+          }
+        ],
+        "buttonLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "buttonText": "syndicate transparent interfaces"
+      }
+    ],
+    "primary": {
+      "tagline": [
+        {
+          "type": "paragraph",
+          "text": "Ex aute labore nulla cupidatat commodo amet aute sunt excepteur consequat officia. Dolore quis ullamco sint. Nulla magna veniam officia officia labore excepteur laborum laborum elit sunt cupidatat eu mollit aute.",
+          "spans": []
+        }
+      ],
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Sit non excepteur aliquip ea officia et veniam exercitation voluptate aliqua ex cillum.",
+          "spans": []
+        }
+      ],
+      "alignment": "Left"
+    }
+  }
+]
