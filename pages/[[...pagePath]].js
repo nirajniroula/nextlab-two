@@ -8,7 +8,6 @@ import { components } from "../slices";
 import { Layout } from "../components/Layout";
 
 const Page = ({ page }) => {
-
   return (
     <Layout>
       <Head>
@@ -32,6 +31,7 @@ export async function getStaticProps({ params, previewData }) {
     props: {
       page,
     },
+    revalidate: 1,
   };
 }
 
